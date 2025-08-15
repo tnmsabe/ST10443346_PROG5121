@@ -1,2 +1,2 @@
-# ST10443346-PROF5121
+# ST10443346-PROG5121
 Login and Registration class
